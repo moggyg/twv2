@@ -3,6 +3,7 @@ author = "Catarina"
 categories = ["Location", "Type of Property", "Price range", "No of bedrooms"]
 date = 2025-02-01T09:40:24Z
 description = "Describe the property in 1 sentence"
+draft = true
 image = "/images/pr7_salold_entrance1400.jpg"
 images = ["/images/pr7_salold_terrace.jpg"]
 tags = ["Garage", "Development opportunity", "Roof Terrace", "Pool", "Balcony", "Mountain Views"]
